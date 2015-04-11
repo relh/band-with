@@ -13,7 +13,7 @@ function startWorker() {
     }
 }
 
-function stopWorker() { 
+function stopWorker() {
     w.terminate();
     w = undefined;
 }
