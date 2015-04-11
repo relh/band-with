@@ -13,3 +13,4 @@ Client - Written - Static - TheAtlantic:
 
 
 
+server: http://45.55.189.27:8000/
